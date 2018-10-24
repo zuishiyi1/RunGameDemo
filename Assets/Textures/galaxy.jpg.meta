@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 3c5f05a5f158b8a4faf580858839c3f6
+timeCreated: 1522033207
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: galaxy_0
+    21300002: galaxy_1
+    21300004: galaxy_2
+    21300006: galaxy_3
+    21300008: galaxy_4
+    21300010: galaxy_5
+    21300012: galaxy_6
+    21300014: galaxy_7
+    21300016: galaxy_8
+    21300018: galaxy_9
+    21300020: galaxy_10
+    21300022: galaxy_11
+    21300024: galaxy_12
+    21300026: galaxy_13
+    21300028: galaxy_14
+    21300030: galaxy_15
+    21300032: galaxy_16
+    21300034: galaxy_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 10
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 0
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: galaxy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_9
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_10
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_11
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1000
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_15
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_16
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: galaxy_17
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

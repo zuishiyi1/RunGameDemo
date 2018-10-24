@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2ffdfbf78dcb9a64ebd51036b210795a
+timeCreated: 1522312496
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BlackJack
+  fontNames:
+  - BlackJack
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
